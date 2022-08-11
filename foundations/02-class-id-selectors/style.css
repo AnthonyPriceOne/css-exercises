@@ -1,0 +1,19 @@
+.pink-odd {
+    background-color: rgb(255, 184, 224);
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.ind {
+    font-size: 24px;
+}
+
+#four-ind {
+    background-color:rgb(156, 239, 92);
+    font-size: 24px;
+    font-weight: bold;
+}
